@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Gabe 🇧🇷
-- 👀 I’m interested in Art, music, or to keep it short, anything you can put a 'design' in the end.
-- 🌱 I’m currently learning many things, but when it comes to programming I'm just a curious fella whose only learning it for a few personal projects.
-- 💞️ I’m looking to collaborate on game development maybe <:o
-- 📫 How to reach me: Just search for 'sollásimi' or 'solatimi' on google or linktr.ee
